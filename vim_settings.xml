@@ -25,10 +25,6 @@
       <file name="/a.dummy" timestamp="1549686144873">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/Learning" timestamp="1549446701788">
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="0" column="46" />
-      </file>
       <file name="$USER_HOME$/LambdaSchool/JAVA5WEEKS/projects/piggybank/src/com/lambdaschool/Dollar.java" timestamp="1549688441860">
         <mark key="[" line="19" column="18" />
       </file>
@@ -37,6 +33,9 @@
       </file>
       <file name="$USER_HOME$/LambdaSchool/JAVA5WEEKS/projects/piggybank/src/com/lambdaschool/Nickle.java" timestamp="1549686197784">
         <mark key="[" line="18" column="30" />
+      </file>
+      <file name="$USER_HOME$/LambdaSchool/JAVA5WEEKS/projects/java-webemployees/pom.xml" timestamp="1549933321995">
+        <mark key="[" line="36" column="0" />
       </file>
       <file name="$USER_HOME$/LambdaSchool/JAVA5WEEKS/projects/piggybank/src/com/lambdaschool/PiggyBank.java" timestamp="1549661916857">
         <mark key="[" line="3" column="0" />
@@ -67,12 +66,17 @@
       <file name="$USER_HOME$/LambdaSchool/JAVA5WEEKS/projects/piggybank/src/com/lambdaschool/Money.java" timestamp="1549689820182">
         <mark key="[" line="4" column="11" />
       </file>
+      <file name="$USER_HOME$/LambdaSchool/JAVA5WEEKS/projects/java-webemployees/src/main/java/com/lambdaschool/webemployees/Employee.java" timestamp="1549934581317">
+        <mark key="'" line="7" column="14" />
+        <mark key="[" line="6" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1549444099408">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
       <jump line="16" column="41" filename="$USER_HOME$/LambdaSchool/JAVA5WEEKS/projects/piggybank/src/com/lambdaschool/Main.java" />
+      <jump line="7" column="14" filename="$USER_HOME$/LambdaSchool/JAVA5WEEKS/projects/java-webemployees/src/main/java/com/lambdaschool/webemployees/Employee.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
