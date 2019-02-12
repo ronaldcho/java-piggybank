@@ -9,10 +9,6 @@
       <file name="$USER_HOME$/LambdaSchool/JAVA5WEEKS/projects/transportationVideo/src/com/lambdaschool/HourseFromVehicle.java" timestamp="1549508259328">
         <mark key="[" line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/LambdaSchool/JAVA5WEEKS/projects/WordCount/src/collections/Main.java" timestamp="1549447552728">
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-      </file>
       <file name="$USER_HOME$/LambdaSchool/JAVA5WEEKS/projects/transportationVideo/src/com/lambdaschool/Vehicle.java" timestamp="1549502459389">
         <mark key="[" line="4" column="0" />
       </file>
@@ -25,11 +21,19 @@
       <file name="/a.dummy" timestamp="1549686144873">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/LambdaSchool/JAVA5WEEKS/projects/java-webemployees/src/main/java/com/lambdaschool/webemployees/EmpList.java" timestamp="1549935397328">
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="11" column="70" />
+      </file>
       <file name="$USER_HOME$/LambdaSchool/JAVA5WEEKS/projects/piggybank/src/com/lambdaschool/Dollar.java" timestamp="1549688441860">
         <mark key="[" line="19" column="18" />
       </file>
       <file name="$USER_HOME$/LambdaSchool/JAVA5WEEKS/projects/java-webemployees/src/main/java/com/lambdaschool/webhello/Greeting.java" timestamp="1549926211343">
         <mark key="[" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/LambdaSchool/JAVA5WEEKS/projects/java-webemployees/src/main/java/com/lambdaschool/webemployees/ChcekEmployee.java" timestamp="1549935784187">
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/LambdaSchool/JAVA5WEEKS/projects/piggybank/src/com/lambdaschool/Nickle.java" timestamp="1549686197784">
         <mark key="[" line="18" column="30" />
@@ -82,8 +86,14 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IChuIC0gMSk7IGkrKykge2EgPX0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Dime</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBlbXBMaXN0LmFkZChuZXcgRW1wbG95ZWUoIlJvbmFsZCIsICJHcmVlbiIsIDU1MDAwLCB0cnVlLCAxLCAxKSk7IAo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBlbXBMaXN0LmFkZChuZXcgRW1wbG95ZWUoIlJvbmFsZCIsICJHcmVlbiIsIDU1MDAwLCB0cnVlLCAxLCAxKSk7IAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBlbXBMaXN0LmFkZChuZXcgRW1wbG95ZWUoIlN0ZXZlIiwgIkdyZWVuIiwgNTUwMDAsIHRydWUsIDEsIDEpKTsgCg==</text>
       </register>
       <register name="-" type="4">
         <text>Dime</text>
